@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Anas
 
-<!--
-**anas-triplek/anas-triplek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Python | Django | FastAPI | React
 
-Here are some ideas to get you started:
+I build scalable web applications and backend systems,
+with a focus on clean architecture, APIs, and real-world
+problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Work With
+• Python
+• Django
+• FastAPI
+• React.js
+• REST APIs
+• PostgreSQL
+• Docker
+• Git & GitHub
+
+📌 Currently Working On
+...
+
+📂 Featured Projects
+...
+
+📫 Let's Connect
+...
